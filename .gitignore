@@ -1,0 +1,4 @@
+*.json *.txt *.csv *.log __pycache__
+*.pyc logs
+csv_exports
+.ipynb_checkpoints
