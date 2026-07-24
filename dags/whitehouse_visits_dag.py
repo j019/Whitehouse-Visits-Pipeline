@@ -9,7 +9,8 @@ from airflow.utils.dates import days_ago
 from datetime import timedelta
 
 # ── Boilerplate: Scripts directory path ──────────────────────
-SCRIPTS_DIR = "/path/to/your/scripts"  #PYTHON37 = "/path/to/python3.7"
+SCRIPTS_DIR = "/path/to/your/scripts"  
+PYTHON37 = "/path/to/python3.7"
 
 # ── Default Arguments ────────────────────────────────────────
 default_args = {
