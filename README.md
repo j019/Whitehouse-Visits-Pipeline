@@ -257,5 +257,5 @@ This project is for educational purposes. All data is publicly available White H
 
 ## 👨‍💻 Author
 
-**Jatin Valecha** — Data Engineer  
+**Jatin Valecha** - Data Engineer  
 🔗 [GitHub](https://github.com/j019) | 🌐 [Portfolio](https://jatinvalecha.netlify.app)
